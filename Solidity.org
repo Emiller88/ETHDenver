@@ -1,0 +1,22 @@
+* Solidity Intro 
+#+TIME:9:45 - !0:45
+** Used Remix
+#+BEGIN_SRC solidity
+  pragma solidity ^0.4.19;
+
+  contract Hodor {
+
+    string public greeting;
+
+    function Hodor(string _greeting){
+      greeting = _greeting;
+    }
+
+    function setGreeting(string _greeting){
+      greeting = _greeting;
+    }
+
+#+END_SRC
+
+** Metamask
+  HudsonJameson.com 
