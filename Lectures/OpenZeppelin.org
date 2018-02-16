@@ -10,3 +10,9 @@
 ** Basically just goes over the docs
 ** Interactive 
    zpl.in/starter
+   git@github.com:OpenZeppelin/sample-crowdsale-starter.git
+   zeppelinos.org
+* Contests
+** Best Use of OpenZeppelin
+** Best contribution OpenZeppelin
+** Best Prototype for the WhitePaper

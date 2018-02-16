@@ -1,0 +1,3 @@
+[submodule "Lectures/sample-crowdsale-starter"]
+	path = Lectures/sample-crowdsale-starter
+	url = git@github.com:OpenZeppelin/sample-crowdsale-starter.git
