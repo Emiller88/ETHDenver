@@ -1,0 +1,5 @@
+* Vyper
+  No recursive functions
+  Nothing interesting hard to follow
+  Might be more secure
+  Solidity is the better option
