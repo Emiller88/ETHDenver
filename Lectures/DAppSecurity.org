@@ -1,0 +1,7 @@
+* DApp Security
+** Reentrancy
+** Fallback Function
+** Exercise 3
+   Could fix with taking out the >= to > so that you can't end up with a (-) int
+** Modular
+   - Open source library for solidity contracts
